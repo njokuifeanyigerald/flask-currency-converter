@@ -2,7 +2,7 @@ from flask import Flask, render_template, request
 import requests
 
 app = Flask(__name__)
-API_KEY = 'BU5JLY8XNDIWVEK7'
+API_KEY = 'your keys'
 # 
 
 #example from the website docs
